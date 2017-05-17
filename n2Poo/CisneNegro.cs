@@ -32,10 +32,10 @@ namespace n2Poo
         {
             throw new NotImplementedException();
         }
-    {
-    }
-string IVoador.Voar(Animal animal)
+
+        string IVoador.Voar(Animal animal)
         {
             throw new NotImplementedException();
         }
     }
+}

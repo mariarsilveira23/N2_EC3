@@ -1,1 +1,10 @@
 c:\users\gusta\onedrive\documentos\visual studio 2015\Projects\n2Poo\n2Poo\bin\Debug\n2Poo.exe.config
+C:\Users\maria\workspace\N2_EC3\n2Poo\bin\Debug\n2Poo.exe.config
+C:\Users\maria\workspace\N2_EC3\n2Poo\obj\Debug\n2Poo.csprojResolveAssemblyReference.cache
+C:\Users\maria\workspace\N2_EC3\n2Poo\obj\Debug\n2Poo.Form1.resources
+C:\Users\maria\workspace\N2_EC3\n2Poo\obj\Debug\n2Poo.Properties.Resources.resources
+C:\Users\maria\workspace\N2_EC3\n2Poo\obj\Debug\n2Poo.csproj.GenerateResource.Cache
+C:\Users\maria\workspace\N2_EC3\n2Poo\bin\Debug\n2Poo.exe
+C:\Users\maria\workspace\N2_EC3\n2Poo\bin\Debug\n2Poo.pdb
+C:\Users\maria\workspace\N2_EC3\n2Poo\obj\Debug\n2Poo.exe
+C:\Users\maria\workspace\N2_EC3\n2Poo\obj\Debug\n2Poo.pdb

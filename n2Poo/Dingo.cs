@@ -22,6 +22,5 @@ namespace n2Poo
         {
             throw new NotImplementedException();
         }
-    {
     }
 }
