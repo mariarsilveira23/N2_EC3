@@ -6,19 +6,9 @@ using System.Threading.Tasks;
 
 namespace n2Poo
 {
-    class Kiwi : Ave, ITerrestre, IOviparo
+    class Coala : Mamifero, ITerrestre
     {
         string ITerrestre.Andar(Animal animal)
-        {
-            throw new NotImplementedException();
-        }
-
-        string IOviparo.BotarOvo(Animal animal)
-        {
-            throw new NotImplementedException();
-        }
-
-        string IOviparo.ChocarOvo(Animal animal)
         {
             throw new NotImplementedException();
         }

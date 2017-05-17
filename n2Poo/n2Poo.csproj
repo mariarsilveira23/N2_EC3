@@ -47,10 +47,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Animal.cs" />
-    <Compile Include="AquiloAudax.cs" />
+    <Compile Include="AquilaAudax.cs" />
     <Compile Include="Ave.cs" />
     <Compile Include="CanguruVermelho.cs" />
     <Compile Include="CisneNegro.cs" />
+    <Compile Include="Coala.cs" />
     <Compile Include="Crocodilo.cs" />
     <Compile Include="DemonioTazmania.cs" />
     <Compile Include="Dingo.cs" />
@@ -62,6 +63,10 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="IAquatico.cs" />
+    <Compile Include="IOviparo.cs" />
+    <Compile Include="ITerrestre.cs" />
+    <Compile Include="IVoador.cs" />
     <Compile Include="Kiwi.cs" />
     <Compile Include="Mamifero.cs" />
     <Compile Include="MorcegoGigante.cs" />

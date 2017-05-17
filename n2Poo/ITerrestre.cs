@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace n2Poo
 {
-    class AquiloAudax : Ave
+    interface ITerrestre
     {
+        string Andar(Animal animal);
+        string Correr(Animal animal);
+        string Rastejar(Animal animal);
     }
 }

@@ -6,7 +6,21 @@ using System.Threading.Tasks;
 
 namespace n2Poo
 {
-    class CanguruVermelho : Mamifero
+    class CanguruVermelho : Mamifero, ITerrestre
     {
+        string ITerrestre.Andar(Animal animal)
+        {
+            throw new NotImplementedException();
+        }
+
+        string ITerrestre.Correr(Animal animal)
+        {
+            throw new NotImplementedException();
+        }
+
+        string ITerrestre.Rastejar(Animal animal)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -6,7 +6,22 @@ using System.Threading.Tasks;
 
 namespace n2Poo
 {
-    class DemonioTazmania : Mamifero
+    class DemonioTazmania : Mamifero, ITerrestre
+    {
+        string ITerrestre.Andar(Animal animal)
+        {
+            throw new NotImplementedException();
+        }
+
+        string ITerrestre.Correr(Animal animal)
+        {
+            throw new NotImplementedException();
+        }
+
+        string ITerrestre.Rastejar(Animal animal)
+        {
+            throw new NotImplementedException();
+        }
     {
     }
 }

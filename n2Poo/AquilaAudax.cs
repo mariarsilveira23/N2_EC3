@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace n2Poo
 {
-    class Kiwi : Ave, ITerrestre, IOviparo
+    class AquilaAudax : Ave, IOviparo, IVoador
     {
-        string ITerrestre.Andar(Animal animal)
-        {
-            throw new NotImplementedException();
-        }
-
         string IOviparo.BotarOvo(Animal animal)
         {
             throw new NotImplementedException();
@@ -23,15 +18,9 @@ namespace n2Poo
             throw new NotImplementedException();
         }
 
-        string ITerrestre.Correr(Animal animal)
+        string IVoador.Voar(Animal animal)
         {
             throw new NotImplementedException();
         }
-
-        string ITerrestre.Rastejar(Animal animal)
-        {
-            throw new NotImplementedException();
-        }
-    {
     }
 }

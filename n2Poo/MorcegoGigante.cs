@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace n2Poo
 {
-    class MorcegoGigante : Mamifero
+    class MorcegoGigante : Mamifero, IVoador
     {
+        string IVoador.Voar(Animal animal)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
