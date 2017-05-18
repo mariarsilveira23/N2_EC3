@@ -8,3 +8,12 @@ C:\Users\maria\workspace\N2_EC3\n2Poo\bin\Debug\n2Poo.exe
 C:\Users\maria\workspace\N2_EC3\n2Poo\bin\Debug\n2Poo.pdb
 C:\Users\maria\workspace\N2_EC3\n2Poo\obj\Debug\n2Poo.exe
 C:\Users\maria\workspace\N2_EC3\n2Poo\obj\Debug\n2Poo.pdb
+Z:\LEITAO 3 SEMESTRE\N2_EC3\n2Poo\bin\Debug\n2Poo.exe.config
+Z:\LEITAO 3 SEMESTRE\N2_EC3\n2Poo\obj\Debug\n2Poo.exe
+Z:\LEITAO 3 SEMESTRE\N2_EC3\n2Poo\obj\Debug\n2Poo.pdb
+Z:\LEITAO 3 SEMESTRE\N2_EC3\n2Poo\obj\Debug\n2Poo.csprojResolveAssemblyReference.cache
+Z:\LEITAO 3 SEMESTRE\N2_EC3\n2Poo\obj\Debug\n2Poo.Form1.resources
+Z:\LEITAO 3 SEMESTRE\N2_EC3\n2Poo\obj\Debug\n2Poo.Properties.Resources.resources
+Z:\LEITAO 3 SEMESTRE\N2_EC3\n2Poo\obj\Debug\n2Poo.csproj.GenerateResource.Cache
+Z:\LEITAO 3 SEMESTRE\N2_EC3\n2Poo\bin\Debug\n2Poo.exe
+Z:\LEITAO 3 SEMESTRE\N2_EC3\n2Poo\bin\Debug\n2Poo.pdb
